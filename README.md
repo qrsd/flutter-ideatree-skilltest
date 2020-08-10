@@ -4,6 +4,11 @@
 
 Coded August 2020
 
-<img src="misc/preview.gif" height="532">
-
 Skilltest for ideaTree
+
+Requirements:
+    - Touch ID integration
+    - Facebook Login integration
+    - Push notifications
+
+<img src="misc/preview.gif" height="532">
