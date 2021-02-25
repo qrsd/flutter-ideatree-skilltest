@@ -1,4 +1,4 @@
-# ideatree_skilltest
+# flutter_ideatree_skilltest
 
 ## About
 
